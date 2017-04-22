@@ -1,0 +1,21 @@
+{
+  "name": "lib",
+  "description": "",
+  "main": "Gruntfile.js",
+  "authors": [
+    "Ben Greaves <bsgreaves@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nss-evening-cohort-05/modernjs-mastery-exercise-BSGreaves",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
